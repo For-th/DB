@@ -23,13 +23,21 @@ Academic Project | October 2026 – November 2026
 Main tables include:
 
 Games – Stores information about supported esports games.
+
 Players – Stores player profiles and information.
+
 Teams – Stores registered esports teams.
+
 Tournaments – Stores tournament details and information.
+
 Tournament Teams – Records the teams participating in each tournament.
+
 Matches – Stores scheduled and recorded tournament matches.
+
 Match Results – Records match scores, outcomes, and winning teams.
+
 Prizes – Stores information about tournament rewards.
+
 Tournament Prizes – Assigns prizes to tournaments and records their winners.
 
 
